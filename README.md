@@ -1,3 +1,9 @@
-##Simple Calculator
+# Simple-Calculator
+A Simple Calculator using Python and Tkinter
 
-#Simple calculator using Tkinter.
+# Requirement
+
+```
+Tkinter 
+
+```
